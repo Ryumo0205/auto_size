@@ -5,6 +5,8 @@
 
 spine 4.0以後的版本已經內建功能解決了此問題。
 
+![說明](https://github.com/Ryumo0205/auto_size/blob/main/spine_sample/sample.gif?raw=true)
+
 ## 原由
 
 由於外框圖片必須與本體圖片百分百同步變形，必須使外框圖片的mesh與本體圖片的mesh百分百相同，通常是由複製外框的mesh作為本體的mesh，但在3.8版本以前會有因圖片版面尺寸不同造成的拉扯問題。
